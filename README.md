@@ -9,6 +9,7 @@ Usage
 =====
 
 Add to your build.gradle
+
 	buildscript {
 		repositories {
 			mavenCentral()
